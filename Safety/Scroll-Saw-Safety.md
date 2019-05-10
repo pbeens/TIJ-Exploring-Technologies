@@ -50,9 +50,9 @@ Open the checklist and indicate that you have read and understood the Safety and
 
 *Note:* Instead of opening the copy in D2L, use <a href="http://bit.ly/scroll-saw-beens" target="_blank">this document</a>. It will allow you to label the diagram using Google Drawing.
 
-If you double-click on the image you can copy-and-paste the keywords onto the diagram directly. 
+If you double-click on the image you can copy-and-paste the keywords onto the diagram directly.
 
-Submit to Google Classroom or the handin drive, as indicated by your instructor. 
+Submit to Google Classroom or the handin drive, as indicated by your instructor.
 
 *Handin folder or assignment name:* Scroll Saw Worksheet
 
