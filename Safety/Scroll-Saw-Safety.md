@@ -54,7 +54,7 @@ If you double-click on the image you can copy-and-paste the keywords onto the di
 
 Submit to Google Classroom or the handin drive, as indicated by your instructor.
 
-*Handin folder or assignment name:* Scroll Saw Worksheet
+\> *Handin folder or assignment name:* Scroll Saw Worksheet
 
 ## Scroll Saw - Competency Test
 
