@@ -42,8 +42,6 @@ These assignments can be found in D2L.
 
 Carefully read through the lesson Google Doc. Create a copy of this document for your ePortfolio.
 
-*Handin folder: name of folder*
-
 ## Scroll Saw - Safety and Operation Completion Checklist
 
 Open the checklist and indicate that you have read and understood the Safety and Operation for this piece of equipment. 
