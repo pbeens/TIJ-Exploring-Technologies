@@ -1,6 +1,6 @@
 # Scroll Saw Safety (D2L Lesson)
 
-*Intro Notes Go Here* 
+*This lesson and the accompanying evaluations must be completed before you can use the scroll saw.* 
 
 <!-- TOC depthFrom:2 -->
 
