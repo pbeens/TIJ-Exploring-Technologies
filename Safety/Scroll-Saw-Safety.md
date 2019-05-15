@@ -4,16 +4,17 @@
 
 <!-- TOC depthFrom:2 -->
 
-- [Learning Goals](#learning-goals)
-- [Course Expectations](#course-expectations)
+- [Scroll Saw Safety (D2L Lesson)](#scroll-saw-safety-d2l-lesson)
+  - [Learning Goals](#learning-goals)
+  - [Course Expectations](#course-expectations)
     - [TIJ1O](#tij1o)
-- [Resources](#resources)
-- [Scroll Saw - Safety and Operation](#scroll-saw---safety-and-operation)
-- [Scroll Saw - Safety and Operation Completion Checklist](#scroll-saw---safety-and-operation-completion-checklist)
-- [Scroll Saw - Worksheet](#scroll-saw---worksheet)
-- [Scroll Saw - Competency Test](#scroll-saw---competency-test)
-- [Scroll Saw - Practical Test](#scroll-saw---practical-test)
-- [Assessment](#assessment)
+  - [Resources](#resources)
+  - [Scroll Saw - Safety and Operation](#scroll-saw---safety-and-operation)
+  - [Scroll Saw - Safety and Operation Completion Checklist](#scroll-saw---safety-and-operation-completion-checklist)
+  - [Scroll Saw - Worksheet](#scroll-saw---worksheet)
+  - [Scroll Saw - Competency Test](#scroll-saw---competency-test)
+  - [Scroll Saw - Practical Test](#scroll-saw---practical-test)
+  - [Assessment](#assessment)
 
 <!-- /TOC -->
 
@@ -52,7 +53,7 @@ Open the checklist and indicate that you have read and understood the Safety and
 
 If you double-click on the image you can copy-and-paste the keywords onto the diagram directly.
 
-Submit to Google Classroom or the handin drive, as indicated by your instructor.
+Submit to Google Classroom or the handin drive, as indicated by your instructor. Please include your full name in the filename of the document. 
 
 \> *Handin folder or assignment name:* Scroll Saw Worksheet
 
