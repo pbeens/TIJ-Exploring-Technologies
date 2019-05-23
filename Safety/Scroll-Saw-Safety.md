@@ -1,6 +1,6 @@
 # Scroll Saw Safety (D2L Lesson)
 
-*This lesson and the accompanying evaluations must be completed before you can use the scroll saw. Unless indicated otherwise, the resources will be found in D2L.*
+*This lesson and the accompanying evaluations must be completed before you can use the scroll saw. Unless otherwise indicated, the resources will be found in D2L.*
 
 <!-- TOC depthFrom:2 -->
 
@@ -51,7 +51,7 @@ Open the checklist and indicate that you have read and understood the Safety and
 
 *Note:* Instead of opening the copy in D2L, use <a href="http://bit.ly/scroll-saw-beens" target="_blank">this document</a>. It will allow you to label the diagram using Google Drawing.
 
-If you double-click on the image you can copy-and-paste the keywords onto the diagram directly.
+If you double-click on the boxes on the image you can copy-and-paste the keywords onto the diagram directly.
 
 Submit to Google Classroom or the handin drive, as indicated by your instructor. Please include your full name in the filename of the document. 
 
