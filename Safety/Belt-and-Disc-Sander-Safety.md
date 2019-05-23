@@ -23,7 +23,7 @@
 - We are learning about the safety aspects of a Belt and Disc Sander.
 - We will be able to identify all the major parts of a Belt and Disc Sander.
 
-*<a href="https://www.beens.org/learning-goals-checklist/" target="_blank">Learning Goals Checklist</a>*
+> *<a href="https://www.beens.org/learning-goals-checklist/" target="_blank">Learning Goals Checklist</a>*
 
 ## Course Expectations
 

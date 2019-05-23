@@ -23,7 +23,7 @@
 - We are learning about the safety aspects of a scroll saw.
 - We will be able to identify all the major parts of a scroll saw.
 
-*<a href="https://www.beens.org/learning-goals-checklist/" target="_blank">Learning Goals Checklist</a>*
+> *<a href="https://www.beens.org/learning-goals-checklist/" target="_blank">Learning Goals Checklist</a>*
 
 ## Course Expectations
 
